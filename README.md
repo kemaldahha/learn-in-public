@@ -21,7 +21,8 @@ Over the past month I have been going through the Data Engineering Zoomcamp by D
 - **Terraform** was completely new to me. It's an Infrastructure-as-Code application which allows for convenient setup of Cloud resources. It's an easy to use abstraction layer on top of Cloud platforms such as GCP, Azure, AWS, and many others. Terraform commands are pretty straightforward: init, plan, apply, destroy. You can use variables in your Terraform .tf files.
 - During this month, I used **Linux** extensively and learned about **SSH** and **port forwarding**.  
 
-![Image](./images/day0.png)
+![Image](./images/day0a.png)
+![Image](./images/day0b.png)
 
 Resources:
 - [My notes](https://github.com/kemaldahha/data-engineering-course/blob/main/notes.md) for [DataTalksClub Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
