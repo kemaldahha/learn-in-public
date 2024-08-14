@@ -10,7 +10,7 @@ I try to learn by implementing in code.
 
 | | Projects and Notebooks |
 | - | - |
-| 1 | [**My notes for Data Engineering Zoomcamp**](https://github.com/kemaldahha/data-engineering-course/blob/main/notes.md) |
+| 1 | [**My notes for Data Engineering Zoomcamp**](https://github.com/kemaldahha/data-engineering-course/blob/main/week_1_notes.md) |
 
 ## Day 0
 
@@ -25,7 +25,7 @@ Over the past month I have been going through the Data Engineering Zoomcamp by D
 ![Image](./images/day0b.png)
 
 Resources:
-- [My notes](https://github.com/kemaldahha/data-engineering-course/blob/main/notes.md) for [DataTalksClub Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+- [My notes](https://github.com/kemaldahha/data-engineering-course/blob/main/week_1_notes.md) for [DataTalksClub Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 
 ## Day 1
 
