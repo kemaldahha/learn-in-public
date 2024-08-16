@@ -52,7 +52,7 @@ I started today with troubleshooting yesterday's issue. Read more about it in [m
 - troubleshot an issue along the way
 
 ![command line](images/day3a.png)
-![airflow web service](images/day3b.pngimage-1.png)
+![airflow web service](images/day3b.png)
 
 Resources:
 - [My week 2 notes](https://github.com/kemaldahha/data-engineering-course/blob/main/week_2_notes.md) for [DataTalksClub Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
