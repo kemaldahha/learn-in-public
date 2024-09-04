@@ -5,12 +5,12 @@ I try to learn by implementing in code.
 
 | | Resources | Status of Completion |
 | - | - | - |
-| 1 | [**DataTalksClub Data Engineering Zoomcamp**](https://github.com/DataTalksClub/data-engineering-zoomcamp) |  |
-| 2 | [**DataTalksClub Machine Learning Zoomcamp**](https://github.com/DataTalksClub/machine-learning-zoomcamp) |  |  
+| 1 | [**DataTalksClub Data Engineering Zoomcamp**](https://github.com/DataTalksClub/data-engineering-zoomcamp) | Ongoing |
+| 2 | [**DataTalksClub Machine Learning Zoomcamp**](https://github.com/DataTalksClub/machine-learning-zoomcamp) | Planned Sep 2024 |
 
 | | Projects and Notebooks |
 | - | - |
-| 1 | [**My notes for Data Engineering Zoomcamp**](https://github.com/kemaldahha/data-engineering-course/blob/main/week_1_notes.md) |
+| 1 | [**My repo for Data Engineering Zoomcamp**](https://github.com/kemaldahha/data-engineering-course/) |
 
 ## Day 0
 
@@ -83,7 +83,7 @@ Resources:
 
 More practice with Airflow by converting the data ingestion script from week 1 into a DAG and setting up Airflow. Running into errors due to conflicting Airflow/Postgres database setups. Trying to figure things out still. On holiday for the next 10 days, so I'll pick back up after.
 
-![airflow](image.png)
+![airflow](images/day6.png)
 
 Resources:
 - [My week 2 notes](https://github.com/kemaldahha/data-engineering-course/blob/main/week_2_notes.md) for [DataTalksClub Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
