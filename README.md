@@ -4,13 +4,14 @@ This repository serves as a record of my learning journey, where I track and out
 I try to learn by implementing in code.  
 
 | | Resources | Status of Completion |
-| - | - | - |
-| 1 | [**DataTalksClub Data Engineering Zoomcamp**](https://github.com/DataTalksClub/data-engineering-zoomcamp) | Ongoing |
-| 2 | [**DataTalksClub Machine Learning Zoomcamp**](https://github.com/DataTalksClub/machine-learning-zoomcamp) | Planned Sep 2024 |
+| - | :-: | :-: |
+| 1 | [**DataTalksClub Data Engineering Zoomcamp**](https://github.com/DataTalksClub/data-engineering-zoomcamp) | Paused until January |
+| 2 | [**DataTalksClub Machine Learning Zoomcamp**](https://github.com/DataTalksClub/machine-learning-zoomcamp) | Ongoing |
 
 | | Projects and Notebooks |
-| - | - |
+| - | :-: |
 | 1 | [**My repo for Data Engineering Zoomcamp**](https://github.com/kemaldahha/data-engineering-course/) |
+| 2 | [**My repo for Machine Learning Zoomcamp**](https://github.com/kemaldahha/machine-learning-course/) |
 
 ## Day 0
 
