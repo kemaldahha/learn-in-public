@@ -104,3 +104,13 @@ Today I continued with the week 1 videos from ML Zoomcamp. I learned about CRISP
 
 Resources:
 - [My week 1 notes](https://github.com/kemaldahha/machine-learning-course/blob/main/week_1_notes.md) for [DataTalksClub Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
+
+## Day 9
+
+Halfway through the linear algebra refresher in week 1 of ML Zoomcamp. Covered vectors, matrices, and dot products.
+
+![dotproductexplanation](images/day9a.png)
+![dotproductcode](images/day9b.png)
+
+Resources:
+- [My week 1 notes](https://github.com/kemaldahha/machine-learning-course/blob/main/week_1_notes.md) for [DataTalksClub Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
