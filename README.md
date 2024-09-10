@@ -114,3 +114,13 @@ Halfway through the linear algebra refresher in week 1 of ML Zoomcamp. Covered v
 
 Resources:
 - [My week 1 notes](https://github.com/kemaldahha/machine-learning-course/blob/main/week_1_notes.md) for [DataTalksClub Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
+
+## Day 10
+
+I finished the linear algebra refresher in which I dot product, matrix-vector multiplication, matrix-matrix multiplication, the identity matrix, and the matrix inverse. Implemented it in Numpy. Next up: Pandas refresher. 
+
+![notes](images/day10a.png)
+![numpymatrixinverse](images/day10b.png)
+
+Resources:
+- [My week 1 notes](https://github.com/kemaldahha/machine-learning-course/blob/main/week_1_notes.md) for [DataTalksClub Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
