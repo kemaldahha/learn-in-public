@@ -129,3 +129,14 @@ Today I studied an intro to Pandas. Pandas is a powerful data analysis library i
 
 Resources:
 - [My week 1 notes](https://github.com/kemaldahha/machine-learning-course/blob/main/week_1_notes.md) for [DataTalksClub Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
+
+
+## Day 12
+
+The second week goes through the entire lifecycle of setting up a regression ML model for a car price prediction dataset.  I learned about data preparation/cleaning, EDA, and model validation. Ensuring training/validation/testing are representative is crucial.
+
+![datacleaning](images/day12a.png)
+![logtransformplot](images/day12b.png)
+
+Resources:
+- [My week 2 notes](https://github.com/kemaldahha/machine-learning-course/blob/main/week_2_notebook.ipynb) for [DataTalksClub Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
