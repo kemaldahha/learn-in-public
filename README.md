@@ -151,4 +151,4 @@ In linear regression models, feature values are multiplied with weights. The sum
 ![vectorform](images/day13c.png)
 
 Resources:
-- [My week 2 notes](https://github.com/kemaldahha/machine-learning-course/blob/main/week_2_notebook.ipynb) for [DataTalksClub Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
+- [My week 2 notes](https://github.com/kemaldahha/machine-learning-course/blob/main/week_2_notes.ipynb) for [DataTalksClub Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
