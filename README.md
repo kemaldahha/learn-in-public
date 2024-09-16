@@ -140,3 +140,15 @@ The second week goes through the entire lifecycle of setting up a regression ML 
 
 Resources:
 - [My week 2 notes](https://github.com/kemaldahha/machine-learning-course/blob/main/week_2_notebook.ipynb) for [DataTalksClub Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
+
+
+## Day 13
+
+In linear regression models, feature values are multiplied with weights. The sum of these products yield a prediction of the target variable. This is done for each sample (i.e. row) in the training set. If a certain feature has a high weight, it means that that feature is very important for predicting the target variable. I set up a function for linear regression for a single sample. Then I extended it to the entire training set and wrote it in terms of a matrix-vector multiplication. 
+
+![naivelinearmodel](images/day13a.png)
+![interpretinglinearmodel](images/day13b.png)
+![vectorform](images/day13c.png)
+
+Resources:
+- [My week 2 notes](https://github.com/kemaldahha/machine-learning-course/blob/main/week_2_notebook.ipynb) for [DataTalksClub Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
