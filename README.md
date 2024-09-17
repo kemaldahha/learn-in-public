@@ -152,3 +152,13 @@ In linear regression models, feature values are multiplied with weights. The sum
 
 Resources:
 - [My week 2 notes](https://github.com/kemaldahha/machine-learning-course/blob/main/week_2_notes.ipynb) for [DataTalksClub Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
+
+
+## Day 14
+
+The Normal Equation solves for the weights in a linear regression problem such that the sum of squared errors is minimized between the data and the model.
+
+![normalequation](images/day14.png)
+
+Resources:
+- [My week 2 notes](https://github.com/kemaldahha/machine-learning-course/blob/main/week_2_notes.ipynb) for [DataTalksClub Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
