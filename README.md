@@ -162,3 +162,16 @@ The Normal Equation solves for the weights in a linear regression problem such t
 
 Resources:
 - [My week 2 notes](https://github.com/kemaldahha/machine-learning-course/blob/main/week_2_notes.ipynb) for [DataTalksClub Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
+
+
+## Day 15
+
+I created a baseline model for the car price prediction dataset. This was done by selecting numeric features only, filling nans with 0, splitting the data into train/validation/test, and using the Normal equation on on the train data. I visualized the results below. Also I calculated the Root Mean Square Error (RMSE), which is a common metric for evaluating regression models.
+
+![datapreparation](images/day15a.png)
+![distribution](images/day15b.png)
+![correlation](images/day15c.png)
+![rmse](images/day15d.png)
+
+Resources:
+- [My week 2 notes](https://github.com/kemaldahha/machine-learning-course/blob/main/week_2_notes.ipynb) for [DataTalksClub Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
