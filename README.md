@@ -175,3 +175,13 @@ I created a baseline model for the car price prediction dataset. This was done b
 
 Resources:
 - [My week 2 notes](https://github.com/kemaldahha/machine-learning-course/blob/main/week_2_notes.ipynb) for [DataTalksClub Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
+
+
+## Day 16
+
+Feature engineering is used to transform the data you have into new features. For instance the cars dataset I am looking at has a 'year' feature. I changed this into 'age', which improved the car price prediction. Categorical columns can be converted into binary columns for each category. However if you have too many features, your RMSE will go up and so will your weights. A way to deal with this is regularization.
+
+![code](images/day16.png)
+
+Resources:
+- [My week 2 notes](https://github.com/kemaldahha/machine-learning-course/blob/main/week_2_notes.ipynb) for [DataTalksClub Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
