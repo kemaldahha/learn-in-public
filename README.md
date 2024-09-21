@@ -185,3 +185,14 @@ Feature engineering is used to transform the data you have into new features. Fo
 
 Resources:
 - [My week 2 notes](https://github.com/kemaldahha/machine-learning-course/blob/main/week_2_notes.ipynb) for [DataTalksClub Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
+
+## Day 17
+
+Learned about what happens when there are linearly dependent columns in the feature matrix X. In that case, X^T X in the Normal Equation becomes rank deficient and cannot be inverted. Or, if the columns are near linear dependent, it leads to numerical instability and very large weights. Regularization (Ridge/L2) can counter this. We add a small number to the diagnotal of X^T X which makes it invertible. The amount of regularization we apply is a hyperparameter that needs to be optimized. Besides this, I started writing a blog post about linear regression.
+
+![residualplot](images/day17a.png)
+![normalequation](images/day17b.png)
+
+Resources:
+- [My week 2 notes](https://github.com/kemaldahha/machine-learning-course/blob/main/week_2_notes.ipynb) for [DataTalksClub Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
+- [On Linear Regression (WIP)](https://github.com/kemaldahha/machine-learning-course/blob/main/linear_regression_article.ipynb)
