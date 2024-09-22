@@ -196,3 +196,15 @@ Learned about what happens when there are linearly dependent columns in the feat
 Resources:
 - [My week 2 notes](https://github.com/kemaldahha/machine-learning-course/blob/main/week_2_notes.ipynb) for [DataTalksClub Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
 - [On Linear Regression (WIP)](https://github.com/kemaldahha/machine-learning-course/blob/main/linear_regression_article.ipynb)
+
+## Day 18
+
+Continued blog post on Linear Regression. Finalized formal derivation of Normal Equation. Next, explain why Numpy and sklearn (and LAPACK under the hood) use SVD/QR decomposition instead. Also started putting notes on fundamentals online.
+
+![normalequation](images/day18a.png)
+![fundamentals](images/day18b.png)
+
+Resources:
+- [My week 2 notes](https://github.com/kemaldahha/machine-learning-course/blob/main/week_2_notes.ipynb) for [DataTalksClub Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
+- [On Linear Regression (WIP)](https://github.com/kemaldahha/machine-learning-course/blob/main/linear_regression_article.ipynb)
+- [Linear Algebra Fundamentals](https://kemaldahha.github.io/fundamentals/linear_algebra)
