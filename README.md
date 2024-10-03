@@ -208,3 +208,12 @@ Resources:
 - [My week 2 notes](https://github.com/kemaldahha/machine-learning-course/blob/main/week_2_notes.ipynb) for [DataTalksClub Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
 - [On Linear Regression (WIP)](https://github.com/kemaldahha/machine-learning-course/blob/main/linear_regression_article.ipynb)
 - [Linear Algebra Fundamentals](https://kemaldahha.github.io/fundamentals/linear_algebra)
+
+## Day 19
+
+Last 4 days I didn't update my progress, so I'll mention it under 'day 19':
+- Finalized my [blog post on Linear Regression](https://medium.com/@kemaldahha/understanding-linear-regression-by-deriving-the-normal-equation-364d9295be1b).
+- Started working on my midterm project idea for ML Zoomcamp. I'm scraping data from a real estate website and plan to make an ML model for predicting a price. 
+- Halfway through week 2 homework.
+
+![homework2](images/day19.png)
