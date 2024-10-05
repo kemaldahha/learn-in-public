@@ -217,3 +217,9 @@ Last 4 days I didn't update my progress, so I'll mention it under 'day 19':
 - Halfway through week 2 homework.
 
 ![homework2](images/day19.png)
+
+# Day 20
+
+Submitted week 2 homework assignment: a linear regression model for laptop price prediction. Also made progress with my project to scrape Dutch real estate data. I have downloaded all the data I need (about 5000 properties), next step is to clean the it.
+
+![data](images/day20.png)
