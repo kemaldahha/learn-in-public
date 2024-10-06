@@ -223,3 +223,10 @@ Last 4 days I didn't update my progress, so I'll mention it under 'day 19':
 Submitted week 2 homework assignment: a linear regression model for laptop price prediction. Also made progress with my project to scrape Dutch real estate data. I have downloaded all the data I need (about 5000 properties), next step is to clean it.
 
 ![data](images/day20.png)
+
+# Day 21
+
+Started going through week 3 videos which covers classification problems in ML. During the EDA section, it was explained how class imbalance may skew predictions. Also we started to use scikit-learn instead of implementing from scratch using numpy.
+
+![churnprediction](images/day21a.png)
+![sklearn](images/day21b.png)
