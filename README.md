@@ -230,3 +230,11 @@ Started going through week 3 videos which covers classification problems in ML. 
 
 ![churnprediction](images/day21a.png)
 ![sklearn](images/day21b.png)
+
+# Day 22
+
+In classification, feature importance can be analyzed by comparing the rate of a binary target variable across different feature groups relative to the global rate. Alternatively, mutual information measures how much knowing a feature reduces uncertainty about the target, capturing both linear and non-linear dependencies.
+
+![comparerates](images/day22a.png)
+
+![MI](images/day22b.png)
