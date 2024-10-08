@@ -238,3 +238,13 @@ In classification, feature importance can be analyzed by comparing the rate of a
 ![comparerates](images/day22a.png)
 
 ![MI](images/day22b.png)
+
+# Day 23
+
+
+Day 23 of #LearnInPublic #mlzoomcamp
+
+Today covered lessons 3.6/7 on Correlation Coefficient for numeric features and One-Hot Encoding for categorical features. Next up Logistic Regression.
+
+![correlationchurnrate](images/day23a.png)
+![onehot](images/day23b.png)
