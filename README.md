@@ -241,10 +241,19 @@ In classification, feature importance can be analyzed by comparing the rate of a
 
 # Day 23
 
-
 Day 23 of #LearnInPublic #mlzoomcamp
 
 Today covered lessons 3.6/7 on Correlation Coefficient for numeric features and One-Hot Encoding for categorical features. Next up Logistic Regression.
 
 ![correlationchurnrate](images/day23a.png)
 ![onehot](images/day23b.png)
+
+
+# Day 24
+
+Day 24 of #LearnInPublic #mlzoomcamp
+
+Today I covered Logistic Regression, which is closely related to Linear Regression (basically take the linear combination from linear regression and plug it into sigmoid + set decision boundary to make prediction.
+
+![logreg](images/day24a.png)
+![logreg2](images/day24b.png)
