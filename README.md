@@ -253,7 +253,16 @@ Today covered lessons 3.6/7 on Correlation Coefficient for numeric features and 
 
 Day 24 of #LearnInPublic #mlzoomcamp
 
-Today I covered Logistic Regression, which is closely related to Linear Regression (basically take the linear combination from linear regression and plug it into sigmoid + set decision boundary to make prediction.
+Today I covered Logistic Regression, which is closely related to Linear Regression. It basically takes the linear combination from linear regression and plug it into sigmoid + set decision boundary to make prediction.
 
 ![logreg](images/day24a.png)
 ![logreg2](images/day24b.png)
+
+
+# Day 25
+
+Day 25 of #LearnInPublic #mlzoomcamp
+
+DictVectorizer converts a DataFrame into a list of dicts, one-hot encoding categorical columns while leaving numeric ones unchanged. It can also handle new observations in JSON format, preparing them for model prediction.
+
+![dv](images/day25.png)
