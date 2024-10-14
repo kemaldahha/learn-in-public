@@ -266,3 +266,11 @@ Day 25 of #LearnInPublic #mlzoomcamp
 DictVectorizer converts a DataFrame into a list of dicts, one-hot encoding categorical columns while leaving numeric ones unchanged. It can also handle new observations in JSON format, preparing them for model prediction.
 
 ![dv](images/day25.png)
+
+# Day 26
+
+Day 26 of #LearnInPublic #mlzoomcamp
+
+Finished week 3 homework. Next up: week 4 which is about Evaluation Metrics for Classification and cross-validation.
+
+![wk3](images/day26.png)
