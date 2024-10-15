@@ -274,3 +274,11 @@ Day 26 of #LearnInPublic #mlzoomcamp
 Finished week 3 homework. Next up: week 4 which is about Evaluation Metrics for Classification and cross-validation.
 
 ![wk3](images/day26.png)
+
+# Day 27
+
+Accuracy of a classification model when there is class imbalance, is misleading. Predicting the majority class would already give a higher score than a random prediction. Instead look at: confusion table, precision/recall
+
+![threshold](images/day27a.png)
+![lr](images/day27b.png)
+![dummy](images/day27c.png)
