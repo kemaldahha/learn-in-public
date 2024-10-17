@@ -3,10 +3,18 @@
 This repository serves as a record of my learning journey, where I track and outline the resources I've used. My focus is on Machine Learning (including MLOps and ML Engineering), Data Science, Data Engineering, and Programming. 
 I try to learn by implementing in code.  
 
-| | Resource | Personal Notes/Projects | Status of Completion |
-| - | :-: | :-: | :-: |
-| 1 | [**DataTalksClub Data Engineering Zoomcamp**](https://github.com/DataTalksClub/data-engineering-zoomcamp) | [**Data Engineering Zoomcamp**](https://github.com/kemaldahha/data-engineering-course/) | Paused until January |
-| 2 | [**DataTalksClub Machine Learning Zoomcamp**](https://github.com/DataTalksClub/machine-learning-zoomcamp) | [**Machine Learning Zoomcamp**](https://github.com/kemaldahha/machine-learning-course/) | Ongoing |
+| | Resource | Type | Personal Notes/Projects | Status of Completion |
+| - | :-: | :-: | :-: | :-: |
+| 1 | [**DataTalksClub Data Engineering Zoomcamp**](https://github.com/DataTalksClub/data-engineering-zoomcamp) | Course |  [**Data Engineering Zoomcamp**](https://github.com/kemaldahha/data-engineering-course/) | Paused until January |
+| 2 | [**DataTalksClub Machine Learning Zoomcamp**](https://github.com/DataTalksClub/machine-learning-zoomcamp) | Course |  [**Machine Learning Zoomcamp**](https://github.com/kemaldahha/machine-learning-course/) | Ongoing |
+| 3 | **Fundamentals of Data Engineering** | Book |  |  |
+| 4 | [**Introduction to Data Engineering**](https://www.coursera.org/learn/intro-to-data-engineering) | Course |  |  |
+| 5 | **Build a Large Language Model from Scratch** | Book |  |  |
+| 6 | **Machine Learning with PyTorch and Scikit-Learn** | Book |  |  |
+| 7 | **MIT Strang Linear Algebra** | Course |  |  |
+| 8 | **Linear Algebra and Its Applications, 4th edition (Gilbert Strang)** | Book |  |  |
+| 9 | **[Pablo Insente - Intro to Linear Algebra](https://pabloinsente.github.io/intro-linear-algebra)** | Website |  |  |
+
 
 ## Day 0
 
