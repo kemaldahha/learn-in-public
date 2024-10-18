@@ -296,3 +296,9 @@ Accuracy of a classification model when there is class imbalance, is misleading.
 Confusion matrices divdide classifications into 4 categories: true/false positives/negatives. This says more about the performance of a classification model than purely looking at accuracy which can be a misleading metric when there is class imbalance. Tomorrow I will further dive into evaluation metrics for classification such as Precision and Recall. 
 
 ![confusionmatrix](images/day28.png)
+
+# Day 29
+
+When evaluating a classification model, if you care mostly about avoiding false positives, look at Precision. However, if you care about avoiding false negatives, look at recall.
+
+![precisionrecall](images/day29.png)
