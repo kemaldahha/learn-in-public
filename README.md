@@ -302,3 +302,12 @@ Confusion matrices divdide classifications into 4 categories: true/false positiv
 When evaluating a classification model, if you care mostly about avoiding false positives, look at Precision. However, if you care about avoiding false negatives, look at recall.
 
 ![precisionrecall](images/day29.png)
+
+# Day 30
+
+The ROC curve is used to evaluate binary classification models. By visualizing the false positive rate and true positive rate against the threshold we get a sense how well the model performs at various thresholds. Moreover, we can evaluate it against an ideal model and random model and evaluate our model against it.
+
+![fprtpr](images/day30a.png)
+![randomroc](images/day30b.png)
+![roc](images/day30c.png)
+![fprtpr](images/day30d.png)
