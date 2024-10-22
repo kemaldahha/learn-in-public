@@ -311,3 +311,9 @@ The ROC curve is used to evaluate binary classification models. By visualizing t
 ![randomroc](images/day30b.png)
 ![roc](images/day30c.png)
 ![fprtpr](images/day30d.png)
+
+# Day 31
+
+ROC AUC is the area under the ROC curve. It's a way to quantify how well a binary classification model is close to the ideal. It's equivalent to the probability that a randomly selected negative sample has a lower score than a randomly selected positive sample. For an ideal classifier, AUC=1. For a random classifier, AUC=0.
+
+![auc](images/day31.png)
