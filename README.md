@@ -317,3 +317,7 @@ The ROC curve is used to evaluate binary classification models. By visualizing t
 ROC AUC is the area under the ROC curve. It's a way to quantify how well a binary classification model is close to the ideal. It's equivalent to the probability that a randomly selected negative sample has a lower score than a randomly selected positive sample. For an ideal classifier, AUC=1. For a random classifier, AUC=0.
 
 ![auc](images/day31.png)
+
+# Day 32
+
+Today I completed week 4 of ML Zoomcamp. So far the focus was on modeling data for regression and classification problems. Week 5 shifts gears and is about deploying ML models. The combination between (a sufficient amount of) theory and application/deployment is what drew me to ML Zoomcamp in particular as well as other courses by DataTalksClub. During my ML and programming learning journey, I've never struggled so much with the learning part, but I've always struggled with putting what I learned into practice and building a portfolio. Ultimately my goal is to start working in this domain, so this is key. DataTalksClub's courses are designed to put learnings into practice and share your work. I think this is what distinguishes it from other, more famous or rigorous courses.
