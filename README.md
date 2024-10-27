@@ -321,3 +321,11 @@ ROC AUC is the area under the ROC curve. It's a way to quantify how well a binar
 # Day 32
 
 Today I completed week 4 of ML Zoomcamp. So far the focus was on modeling data for regression and classification problems. Week 5 shifts gears and is about deploying ML models. The combination between (a sufficient amount of) theory and application/deployment is what drew me to ML Zoomcamp in particular as well as other courses by DataTalksClub. During my ML and programming learning journey, I've never struggled so much with the learning part, but I've always struggled with putting what I learned into practice and building a portfolio. Ultimately my goal is to start working in this domain, so this is key. DataTalksClub's courses are designed to put learnings into practice and share your work. I think this is what distinguishes it from other, more famous or rigorous courses.
+
+# Day 33
+
+All the code from the previous weeks was written in Jupyter notebooks. This week is about deploying the code. I transferred all the code into separate .py files for training and prediction. In train.py, a model can be trained and it is saved using the pickle module. In predict.py, this model can be used in conjunction with customer data sent in json format to make a prediction on whether they will churn or not. I did an intro into using Flask and currently am busy building a web service for churn prediction with Flask.
+
+![flask](images/day33a.png)
+![train](images/day33b.png)
+![predict](images/day33c.png)
