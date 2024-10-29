@@ -329,3 +329,13 @@ All the code from the previous weeks was written in Jupyter notebooks. This week
 ![flask](images/day33a.png)
 ![train](images/day33b.png)
 ![predict](images/day33c.png)
+
+# Day 34
+
+I took yesterday's churn prediction file and made a Flask app for it. When running the file, a post request can be sent to it with customer data in json format, and a prediction is sent back. Although a development server is used during developing, which autoreloads upon changes and provides error messages, during production a production server such as uvicorn should be used.
+
+Since we will have multiple services running side by side, it helps to create separate virtual environments for them. This is where pipenv comes into play. When using pipenv, all dependencies are automatically registered in Pipfile and Pipfile.lock, including the exact versions of their sub-dependencies. The environment can then easily be set up on a new computer with `pipenv install`. We can run commands from this environment like `pipenv run gunicorn --bind 0.0.0.0:9696 predict:app`
+
+
+![predictflask](images/day34a.png)
+![pipenv](images/day34b.png)
