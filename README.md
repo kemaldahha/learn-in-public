@@ -347,3 +347,7 @@ Virtual environment managers such as pipenv help to isolate python dependencies.
 ![docker](images/day35.png)
 
 # Day 36
+
+Today I deployed the docker image I built yesterday, to the cloud using AWS Elastic Beanstalk. It was pretty straightforward, first I downloaded awsebcli using pipenv, via pipenv shell, I initialized the service, I ran it locally with eb to verify it works, then I deployed it using eb create. I didn't figure it'd be this straightforward. After that I did the homework for this week, which concludes week 5. Next week is on decision trees, random forrest, and XGBoost.
+
+![dockerfile](images/day36.png)
