@@ -339,3 +339,11 @@ Since we will have multiple services running side by side, it helps to create se
 
 ![predictflask](images/day34a.png)
 ![pipenv](images/day34b.png)
+
+# Day 35
+
+Virtual environment managers such as pipenv help to isolate python dependencies. However, Docker goes a step further and isolates an application entirely from the system. For instance we can run multiple Docker containers from the same computer, where the containers have different OS versions from each other and from the host computer. Also using Docker makes it easy to deploy applications to the cloud.
+
+![docker](images/day35.png)
+
+# Day 36
