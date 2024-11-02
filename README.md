@@ -360,3 +360,12 @@ Week 6 is on decision tree algorithms. The first lesson introduced the credit ri
 
 ![preprocessing](images/day37a.png)
 ![splitting](images/day37b.png)
+
+# Day 38
+
+
+Decision trees are a type of machine learning algorithm used for classification and regression tasks. They break down complex decisions into a series of simpler, sequential questions. At each step, or node, the data is split based on a specific feature and condition (e.g., "Is income greater than $50,000?"). This process continues until the data reaches a final decision, represented by a leaf node. The tree structure allows for easy interpretation, as it can be visualized as a flowchart of if-then-else conditions that guide the data to a result. They can be prone to overfitting. One way of mitigating this, is by setting the maximum depth of decision trees.
+
+![alt text](image/day38a.png)
+![alt text](images/day38b.png)
+![alt text](images/day38c.png)
