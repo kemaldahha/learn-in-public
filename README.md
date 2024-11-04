@@ -363,9 +363,23 @@ Week 6 is on decision tree algorithms. The first lesson introduced the credit ri
 
 # Day 38
 
-
 Decision trees are a type of machine learning algorithm used for classification and regression tasks. They break down complex decisions into a series of simpler, sequential questions. At each step, or node, the data is split based on a specific feature and condition (e.g., "Is income greater than $50,000?"). This process continues until the data reaches a final decision, represented by a leaf node. The tree structure allows for easy interpretation, as it can be visualized as a flowchart of if-then-else conditions that guide the data to a result. They can be prone to overfitting. One way of mitigating this, is by setting the maximum depth of decision trees.
 
-![alt text](image/day38a.png)
+![alt text](images/day38a.png)
 ![alt text](images/day38b.png)
 ![alt text](images/day38c.png)
+
+# Day 39
+
+Today, I switched gears and worked on a miniproject using the OpenAI API. I downloaded transcripts from a YouTube channel focused on stock investing and created a script to feed each transcript to ChatGPT to extract stock recommendations, saving them as CSV entries with tickers, valuations, and relevant quotes from the transcript. However, ChatGPT's output didn't consistently adhere to CSV format. I tried tweaking the temperature and prompt engineering with few-shot examples, but no luck. I learned about using structured output with Pydantic, which I’ll try later. But for now, back to ML Zoomcamp!"
+
+![chatgpt](images/day39.png)
+
+# Day 40
+
+Dove deeper into decision trees and explored parameter tuning. By training the model for different `max_depth` and `min_samples_leaf`, I found the combination which maximizes AUC score. After that I did the lesson on Random Forest in which multiple decision trees are trained on different, random subsets of features and their predictions are averages. Then I did parameter tuning on that. I checked at which  number of decision trees (`n_learners`), the model score no longer improves. Then I optimized `max_depth` and `min_samples_leaf`. Finally, I looked into XGBoost. Where Random Forest trains multiple models, independent from each other, XGBoost uses boosting, which is a technique in which a model is trained, its error determined, then another model is trained based on it with the purpose of reducing the error. This is done for many iterations. 
+
+
+![heatmap](images/day40a.png)
+![rftuning](images/day40b.png)
+![xgb](images/day40c.png)
