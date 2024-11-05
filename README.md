@@ -379,7 +379,13 @@ Today, I switched gears and worked on a miniproject using the OpenAI API. I down
 
 Dove deeper into decision trees and explored parameter tuning. By training the model for different `max_depth` and `min_samples_leaf`, I found the combination which maximizes AUC score. After that I did the lesson on Random Forest in which multiple decision trees are trained on different, random subsets of features and their predictions are averages. Then I did parameter tuning on that. I checked at which  number of decision trees (`n_learners`), the model score no longer improves. Then I optimized `max_depth` and `min_samples_leaf`. Finally, I looked into XGBoost. Where Random Forest trains multiple models, independent from each other, XGBoost uses boosting, which is a technique in which a model is trained, its error determined, then another model is trained based on it with the purpose of reducing the error. This is done for many iterations. 
 
-
 ![heatmap](images/day40a.png)
 ![rftuning](images/day40b.png)
 ![xgb](images/day40c.png)
+
+# Day 41
+
+Today I continued with my XGBoost model and did a manual hyperparameter optimization/tuning. Out of the 3 models XGBoost was the best performing one with an AUC score of 83% vs 82% for RF and 78% for DT. I went ahead with XGBoost and used the combined training and validation data to train the model and evaluate it on the test set. This also gave an AUC score of 83%, which means the model generalizes well to unseen data. I completed the homework as well, concluding week 6. Next I will start working on my midterm project. I intend to use this in my portfolio, so I want to make sure it is of high quality. More to follow..
+
+![xgbtuning](images/day41a.png)
+![xgbtest](images/day41b.png)
