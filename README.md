@@ -395,3 +395,9 @@ Today I continued with my XGBoost model and did a manual hyperparameter optimiza
 I haven't shared my progress in 2 weeks, though I have worked on the ML Zoomcamp midterm project. Today's sharing covers the work done during past 2 weeks. I created a script which can download listings from Funda, the Dutch Zillow. The data needs a lot of wrangling though to get it in shape for modeling. I'm ending up with a lot of columns due to one-hot encodig, which I think may pose a problem later on due to multicollinearity. After preparing the data, I will do EDA, modeling, and then deploy it using AWS Elastic Beanstalk. The deadline is 26th of November. 
 
 ![datawrangling](images/day42.png)
+
+# Day 43
+
+Today I finished the data preparation for the ML Zoomcamp midterm project. I ran the first model to predict house prices in Rotterdam using linear regression. I managed to get an RMSE on the validation set of 158.321, which is not bad, but tomorrow I will try and improve it through feature engineering.  
+
+![linreg](images/day43.png)
