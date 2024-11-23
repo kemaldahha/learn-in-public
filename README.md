@@ -401,3 +401,10 @@ I haven't shared my progress in 2 weeks, though I have worked on the ML Zoomcamp
 Today I finished the data preparation for the ML Zoomcamp midterm project. I ran the first model to predict house prices in Rotterdam using linear regression. I managed to get an RMSE on the validation set of 158.321, which is not bad, but tomorrow I will try and improve it through feature engineering.  
 
 ![linreg](images/day43.png)
+
+# Day 44
+
+Spent quite a bit more time today on data cleaning and preparation. A lot of the features are correlated with each other and have outliers which need to be dealt with. Planning to evaluate how linear regression, decision tree, random forest, XGBoost and see how they stack up against each other. My goal is to finish the assignment tomorrow, but let's see how that goes.
+
+![corrplot](images/day44a.png)
+![dataprep](images/day44b.png)
