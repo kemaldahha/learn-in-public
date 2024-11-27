@@ -408,3 +408,9 @@ Spent quite a bit more time today on data cleaning and preparation. A lot of the
 
 ![corrplot](images/day44a.png)
 ![dataprep](images/day44b.png)
+
+# Day 45
+
+Today I made a start with week 8, which is about deep learning. The example assignment is about image classification of fashion items. I set up an environment in Saturn Cloud, a GPU provider and used a bit of Tensorflow and Keras.
+
+![tfkeras](images/day45.png)
