@@ -414,3 +414,9 @@ Spent quite a bit more time today on data cleaning and preparation. A lot of the
 Today I made a start with week 8, which is about deep learning. The example assignment is about image classification of fashion items. I set up an environment in Saturn Cloud, a GPU provider and used a bit of Tensorflow and Keras.
 
 ![tfkeras](images/day45.png)
+
+# Day 46
+
+Convolutional Neural Networks (CNNs) use convolutional layers to detect features in images and dense layers to make predictions. Convolutional layers act as filters, comparing small image segments to the input to create feature maps. These maps capture patterns like lines and shapes in early layers and more complex features in deeper layers. Dense layers use the resulting vector to calculate predictions, such as binary or multi-class classifications. In transfer learning, the convolutional layers of a pretrained CNN remain unchanged, as they are general-purpose, while dense layers are retrained for the specific problem, reducing data needs and training time.
+
+![cnn](images/day46.png)
