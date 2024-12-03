@@ -419,4 +419,22 @@ Today I made a start with week 8, which is about deep learning. The example assi
 
 Convolutional Neural Networks (CNNs) use convolutional layers to detect features in images and dense layers to make predictions. Convolutional layers act as filters, comparing small image segments to the input to create feature maps. These maps capture patterns like lines and shapes in early layers and more complex features in deeper layers. Dense layers use the resulting vector to calculate predictions, such as binary or multi-class classifications. In transfer learning, the convolutional layers of a pretrained CNN remain unchanged, as they are general-purpose, while dense layers are retrained for the specific problem, reducing data needs and training time.
 
-![cnn](images/day46.png)
+![cnn](images/day46a.png)
+![training](images/day46b.png)
+
+# Day 47
+
+Learning Rate
+Learning rate is one of the most important hyperparameters for neural network training. If learning rate is too high, training will be relatively faster, but you'll likely overfit and perform poorly on validation. if it is too low, model training will be too slow. You'll likely underfit and perform poorly on validation. If you balance the learning rate well, the model training will not take too long and perform well on the validation data.
+
+Checkpointing
+During model training, images are processed in batches. When all training images have been used, it constitutes one cycle, which is called epoch. Checkpointing is a way of storing intermediate models. For example, each epoch's model can be stored, or only the ones that improved in terms of a specified metric (e.g. validation accuracy). Otherwise we would just be stuck with the last epoch's model, which is arbitrary compared to choosing a model based on performance.
+
+Dropout
+When a neural network trains and it sees the same dataset for multiple epochs, it may end up learning idiosynchrasies of the data. Imagine a certain t-shirt has a logo. The neural network may end up memorizing the logo and associate it with t-shirts. If another clothing item has that logo, it will mistakenly think it's a t-shirt. We want the neural network to learn more general characteristics, such as the overall shape of a t-shirt, the fact that it has a collar, and so on. Per epoch, dropout will randomly freeze certain neurons in an inner layer by removing connections between that inner layer and the vector representation.  
+
+Data Augmentation
+With dropout, we regularize our neural network. With data augmentation, we create more data out of our existing data. So we generate more images out of existing ones. For example, we can transform our image by flipping, rotating, shifting, shearing, etc. These can be combined. Data augmentation should be representative for the variety in data we get in production. So, if for example, all objects in an object recognition model would be oriented in one way, there's no point in augmenting the training data by changing the orientation. Also, we should only apply data augmentation to training and not to validation, as that will make it impossible to compare validation metrics across epochs.
+
+![lr](images/day47a.png)
+![checkpointing](images/day47b.png)
